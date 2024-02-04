@@ -1,16 +1,11 @@
-# mealapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![m12](https://github.com/varun-a50/meal_app_flutter/assets/56962637/bf60b75b-7de5-4c5a-8a75-1ccef804f533)
+![m11 (2)](https://github.com/varun-a50/meal_app_flutter/assets/56962637/ccba38f8-1339-4d26-827c-828409aad052)
+![m6](https://github.com/varun-a50/meal_app_flutter/assets/56962637/cdb8f2db-b33a-426b-8209-761941a711ee)
+![m6 (2)](https://github.com/varun-a50/meal_app_flutter/assets/56962637/d323cf04-21f7-4851-b290-3545d2d4edf5)
+![m5](https://github.com/varun-a50/meal_app_flutter/assets/56962637/c9748948-6749-48b6-9649-fe5f57559c1e)
+![m5 (2)](https://github.com/varun-a50/meal_app_flutter/assets/56962637/f109f369-3e7f-47f2-a672-9e8396e46380)
+![m4 (2)7](https://github.com/varun-a50/meal_app_flutter/assets/56962637/44284e23-4ebb-432b-963d-a0564c723bdd)
+![m3](https://github.com/varun-a50/meal_app_flutter/assets/56962637/1ed95618-ea2f-4380-89ba-c7c2fcf0d19b)
+![m3 (2)](https://github.com/varun-a50/meal_app_flutter/assets/56962637/1c21c1a0-83a5-4b43-a831-260904e850a8)
+![m2](https://github.com/varun-a50/meal_app_flutter/assets/56962637/73a67712-c14a-4d23-b362-f1a355a54f89)
+![m1](https://github.com/varun-a50/meal_app_flutter/assets/56962637/22f2e86f-6b18-4e5c-82df-469f58576c2a)
